@@ -1,9 +1,6 @@
 body {
 	background-color: #330019;
-background-image:    url(images/godzooky.jpg);
-    background-size:     cover;                      
-    background-repeat:   no-repeat;
-    background-position: center center; }
+}
 
 h1, p {
 	color: #f2f2f2;

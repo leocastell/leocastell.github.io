@@ -4,3 +4,6 @@ body {
     background-repeat:   no-repeat;
     background-position: center center;              /* optional, center the image */
 }
+h1, h3 {
+	color: #0d44FF;
+}

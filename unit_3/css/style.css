@@ -1,10 +1,5 @@
 body {
-                /* optional, center the image */
-}
-h1, h3 {
-	color: #0d44FF;
-}
-#bg {
+	#bg {
   position: fixed; 
   top: 0; 
   left: 0; 
@@ -12,3 +7,8 @@ h1, h3 {
   /* Preserve aspet ratio */
   min-width: 100%;
   min-height: 100%;}
+                /* optional, center the image */
+}
+h1, h3 {
+	color: #0d44FF;
+}

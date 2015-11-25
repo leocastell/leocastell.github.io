@@ -7,10 +7,11 @@ h1 {
 	color: #FFFFFF; 
 }
 
-#slogan {font-size: 40px;
+#slogan {font-family: helvetica;
+	font-size: 40px;
 	background-color: #fff;
 	font-weight: normal;
-    padding: 30px;
+    padding: 10px;
 text-align: center;
 font-style: normal;}
 

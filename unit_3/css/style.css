@@ -1,6 +1,6 @@
 body {}
 h1, h3 {
-	color: #0d44FF;
+	color: #0d48ad;
 }
 html { 
   background: url(images/friends_beach.jpg) no-repeat center center fixed; 
@@ -8,4 +8,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+p {
+	color: 000000;
 }

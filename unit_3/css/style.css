@@ -9,9 +9,10 @@ h1 {
 
 #slogan {font-family: helvetica;
 	font-size: 40px;
+	text-transform: uppercase;
 	background-color: #fff;
 	font-weight: normal;
-    padding: 10px;
+    padding: 1px;
 text-align: center;
 font-style: normal;}
 

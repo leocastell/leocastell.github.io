@@ -1,5 +1,9 @@
 body {}
+
+#slogan {font-weight: bold}
+
 h1, h3 {
+	font-weight: bold;
 	color: #0d48ad;
 }
 html { 
@@ -11,4 +15,6 @@ html {
 }
 p {
 	color: #FFFFff;
+}
+ul {color: #fffff;
 }

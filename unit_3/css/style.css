@@ -7,12 +7,12 @@ h1 {
 	color: #FFFFFF; 
 }
 
-#slogan {font-size: 50px;
+#slogan {font-size: 40px;
 	background-color: #000;
 	font-weight: bold;
     padding: 40px;
 text-align: center;
-font-style: italic;}
+font-style: normal;}
 
 h3 {
 	font-weight: bold;

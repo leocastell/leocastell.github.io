@@ -1,12 +1,11 @@
-html { 
+body { 
   text-align: center;
   background: url(images/farol.jpg) no-repeat center center fixed; 
   background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
   }
 
-  body {
-
-  }
   hr {
   width: 200px;
 }
